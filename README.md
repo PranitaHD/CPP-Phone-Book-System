@@ -1,0 +1,2 @@
+# CPP-Phone-Book-System
+Language :- C++ Programming. In this code a simple Phone Book System is created. Here you can save new contact, search for a contact, see existing contact, modify previous contact, and also delete specific contact. All the contact data will be stored in a file, namely "PhoneBook.dat". You have to enter your details(Serial Number, Name of the Person, Mobile Number, E-mail Id, and Group like Friend, Business..) first i.e. save a record then you can perform remaining options. I have used Visual Studio Code here.
